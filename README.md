@@ -5,7 +5,7 @@
 Model search (MS) is a framework that implements AutoML algorithms for model architecture search at scale. It
 aims to help researchers speed up their exploration process for finding the right
 model architecture for their classification problems (i.e., DNNs with different types of layers).
-
+bdrbg
 The library enables you to:
 erferfef
 * Run many AutoML algorithms out of the box on your data - including automatically searching
